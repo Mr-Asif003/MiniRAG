@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Asif",
+        "age": 22,
+        "city": "Bhopal",
+        "skills": [
+            "Java",
+            "Python",
+            "Spring Boot",
+            "React"
+        ],
+        "education": "B.Tech Computer Science",
+        "interests": [
+            "AI",
+            "Backend Development",
+            "System Design"
+        ]
+    }
+]
