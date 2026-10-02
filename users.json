@@ -16,5 +16,95 @@
             "Backend Development",
             "System Design"
         ]
+    },
+    {
+        "name": "Asif khan",
+        "age": 20,
+        "city": "garhwa",
+        "skills": [
+            "Java",
+            "Python",
+            "react",
+            "ai"
+        ],
+        "education": "B.Tech CSE",
+        "interests": [
+            "Ai",
+            "SDE"
+        ],
+        "id": 2
+    },
+    {
+        "name": "Asif khan",
+        "age": 23,
+        "city": "",
+        "skills": [],
+        "education": "",
+        "interests": [],
+        "id": 3
+    },
+    {
+        "name": "ashab khan ",
+        "age": 20,
+        "city": "delhi",
+        "skills": [
+            "Speaking"
+        ],
+        "education": "B.Tech ",
+        "interests": [
+            "Ai",
+            "SDE"
+        ],
+        "id": 4
+    },
+    {
+        "name": "ashab khan ",
+        "age": 20,
+        "city": "delhi",
+        "skills": [
+            "Speaking"
+        ],
+        "education": "B.Tech ",
+        "interests": [
+            "Ai",
+            "SDE"
+        ],
+        "id": 5
+    },
+    {
+        "name": "ashab khan ",
+        "age": 20,
+        "city": "",
+        "skills": [],
+        "education": "",
+        "interests": [],
+        "id": 6
+    },
+    {
+        "name": "ashab khan ",
+        "age": 20,
+        "city": "",
+        "skills": [],
+        "education": "",
+        "interests": [],
+        "id": 7
+    },
+    {
+        "name": "ashab khan ",
+        "age": 20,
+        "city": "",
+        "skills": [],
+        "education": "",
+        "interests": [],
+        "id": 8
+    },
+    {
+        "name": "ashab khan ",
+        "age": 20,
+        "city": "",
+        "skills": [],
+        "education": "",
+        "interests": [],
+        "id": 9
     }
 ]
